@@ -1,2 +1,2 @@
 # challenge-huddle-landing-page
-## project note
+challenge from https://www.frontendmentor.io/challenges
